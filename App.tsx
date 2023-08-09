@@ -9,6 +9,8 @@ const App = () => {
         <TextInput style={{ borderColor: 'black', borderWidth: 1 }} />
         <Text>Second Input</Text>
         <TextInput style={{ borderColor: 'black', borderWidth: 1 }} />
+        <Text>Third Input</Text>
+        <TextInput style={{ borderColor: 'black', borderWidth: 1 }} />
       </View>
     </SafeAreaView>
   );

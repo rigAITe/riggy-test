@@ -7,6 +7,8 @@ const App = () => {
       <View style={{ paddingHorizontal: 20 }}>
         <Text>First Input</Text>
         <TextInput style={{ borderColor: 'black', borderWidth: 1 }} />
+        <Text>Second Input</Text>
+        <TextInput style={{ borderColor: 'black', borderWidth: 1 }} />
       </View>
     </SafeAreaView>
   );
